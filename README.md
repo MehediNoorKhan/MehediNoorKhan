@@ -1,6 +1,6 @@
-
-  <img src="https://i.postimg.cc/hGFtNzmr/cvprof.jpg" width="100%" alt="Banner"/>
-
+<p align="center">
+  <img src="https://i.postimg.cc/hGFtNzmr/cvprof.jpg" width="100%" height="180" alt="Banner"/>
+</p>
 
 <h1 align="left">Mehedi Noor Khan</h1>
 <h3 align="left">Frontend Developer | React Enthusiast | AI Explorer</h3>
@@ -30,7 +30,7 @@ Frontend Developer skilled in **React.js** and modern web technologies. Passiona
 ---
 
 <h3 align="left">Frontend</h3>
-<p align="left">
+<p align="left" style="margin-bottom:12px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -40,19 +40,19 @@ Frontend Developer skilled in **React.js** and modern web technologies. Passiona
 </p>
 
 <h3 align="left">Backend</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<p align="left" style="margin-bottom:12px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> &nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
 <h3 align="left">Programming Tools</h3>
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<p align="left" style="margin-bottom:12px;">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> &nbsp;&nbsp;
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" width="40" height="40"/>
 </p>
 
