@@ -1,61 +1,34 @@
-### Hi there 👋, my name is Mehedi Noor Khan
-#### Frontend Developer | React Enthusiast | AI Explorer
-![Frontend Developer | React Enthusiast | AI Explorer](https://i.ibb.co.com/dJVgq5WW/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png)
+<h1 align="center">Hi 👋, I'm Mehedi Noor Khan</h1>
+<h3 align="center">Frontend Developer skilled in React.js,Node.js,Express.js and MongoDB. Passionate about building modern, scalable web apps and solving real-world problems through clean, efficient code.</h3>
 
-Frontend Developer skilled in **React.js** and modern web technologies. Passionate about creating **interactive, responsive, and user-friendly interfaces**. Exploring **AI** to enhance web experiences and always learning to build better, cleaner code.
+- 🔭 I’m currently working on **Ticknology**
 
-**Skills:**  
-HTML5, CSS3, JavaScript(ES6), TailwindCSS, Bootstrap, Node.js, React.js, Express.js, Next.js, Firebase, MongoDB, MySQL.
+- 🌱 I’m currently learning **Next.js, AI featured Web Development**
 
-- 🔭 I’m currently working on **Ticknology**, an e-commerce platform dedicated to selling watches.  
-- 🌱 I’m currently learning **Next.js** and exploring **AI-integrated web solutions** to build smarter, more interactive and user-friendly applications.  
-- 👯 I’m looking to collaborate on web projects combining React, Next.js, and AI to build smart, user-friendly applications.  
-- 🤔 I’m looking for help with integrating AI into web apps and optimizing frontend performance.  
-- 💬 Ask me about **React, Next.js, frontend development and AI-powered web solutions.**  
-- 📫 How to reach me:  
-  📧 **Email:** [mehedinoorkhan16@gmail.com](mailto:mehedinoorkhan16@gmail.com)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I can spend hours debugging a single line of code — and feel like a superhero when it finally works! 💪💻  
+- 👨‍💻 All of my projects are available at [mehedinoorkhan.netlify.app](mehedinoorkhan.netlify.app)
 
----
+- 💬 Ask me about **Web Development, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Firebase, REST APIs, Full Stack Projects, MVC Architecture, Team Collaboration, and Debugging tips! ⚡**
 
-## 🏆 Projects
+- 📫 How to reach me **mehedinoorkhan16@gmail.com**
 
-### 💡 Roommate Finder
-- **Description:** A MERN stack app where users can post roommate listings, show interest in others’ posts, and view their own activities.  
-- **Tech Stack:** React.js, Express.js, MongoDB, Firebase, TailwindCSS  
-- **Live:** [Roommate Finder](https://assignment-10-faf93.web.app/)  
-- **GitHub:** [Repo](https://github.com/MehediNoorKhan/Find_Your_Roommate)  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HLkFtSUh6LWZ1in4BuLwQSMJO1g8WPO4/view?usp=sharing](https://drive.google.com/file/d/1HLkFtSUh6LWZ1in4BuLwQSMJO1g8WPO4/view?usp=sharing)
 
-### 🍽️ Food Zone
-- **Description:** A web application that allows individuals and organizations to share surplus food with those in need. Users can donate, request, and manage listings.  
-- **Tech Stack:** React.js, Express.js, MongoDB, Firebase, TailwindCSS, Framer-Motion, Stripe  
-- **Live:** [Food Zone](https://assignment11-b015f.web.app/)  
-- **GitHub:** [Repo](https://github.com/MehediNoorKhan/FoodZone)  
+- ⚡ Fun fact **I can spend hours debugging a single line of code — and feel like a superhero when it finally works! 💪💻**
 
-### 🗣️ Convonest
-- **Description:** A discussion platform where users can share posts, comment, vote, and explore trending topics.  
-- **Tech Stack:** React.js, Express.js, MongoDB, Firebase, TailwindCSS, Stripe  
-- **Live:** [Convonest](https://convonest3.web.app/)  
-- **GitHub:** [Repo](https://github.com/MehediNoorKhan/Convonest)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mehedi noor khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi noor khan" height="30" width="40" /></a>
+<a href="https://fb.com/mehedi noor khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi noor khan" height="30" width="40" /></a>
+<a href="https://instagram.com/mehedinoor5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedinoor5" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mehedi noor khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehedi noor khan" height="30" width="40" /></a>
+<a href="https://discord.gg/mCwUhTwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mCwUhTwt" height="30" width="40" /></a>
+</p>
 
-### ⌚ Ticknology *(Current Project)*
-- **Description:** An e-commerce platform for watches with user authentication, favorites, and responsive UI.  
-- **Tech Stack:** React.js, Next.js, TailwindCSS, Node.js, Express.js, MongoDB, Prisma, Firebase  
-- **Live:** [Ticknology](https://ticknology.netlify.app)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-**Backend/API (Concise):** RESTful endpoints for authentication, products, and favorites. Models include `User` and `Product`.  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedinoorkhan&show_icons=true&locale=en&layout=compact" alt="mehedinoorkhan" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedinoorkhan&show_icons=true&locale=en" alt="mehedinoorkhan" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MehediNoorKhan)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehedinoorkhan16/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mehedinoorkhan/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mehedinoorkhan.netlify.app)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/mCwUhTwt)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediNoorKhan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediNoorKhan&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MehediNoorKhan)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedinoorkhan&" alt="mehedinoorkhan" /></p>
