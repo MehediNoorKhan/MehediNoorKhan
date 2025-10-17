@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://i.postimg.cc/hGFtNzmr/cvprof.jpg" width="100%" alt="Banner"/>
-</p>
+<div align="center">
+  <img src="https://i.postimg.cc/hGFtNzmr/cvprof.jpg" width="100%" height="340px" alt="Banner"/>
+</div>
+
 
 <h1 align="left">Mehedi Noor Khan</h1>
 <h3 align="left">Frontend Developer | React Enthusiast | AI Explorer</h3>
