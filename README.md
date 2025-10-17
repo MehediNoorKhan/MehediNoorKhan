@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/39GbbKX2/upscalemedia-transformed-1.png" width="100%" alt="Banner"/>
+  <img src="https://i.ibb.co.com/39GbbKX2/upscalemedia-transformed-1.png" width="100%" height="30%" object="cover" alt="Banner"/>
 </p>
 
 <h1 align="left">Mehedi Noor Khan</h1>
