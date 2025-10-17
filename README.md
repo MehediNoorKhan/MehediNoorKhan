@@ -1,6 +1,6 @@
-<p align="center">
+
   <img src="https://i.ibb.co.com/WvQpyrhr/forCv.jpg" width="100%" alt="Banner"/>
-</p>
+
 
 <h1 align="left">Mehedi Noor Khan</h1>
 <h3 align="left">Frontend Developer | React Enthusiast | AI Explorer</h3>
