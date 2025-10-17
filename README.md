@@ -1,34 +1,83 @@
 <h1 align="center">Hi 👋, I'm Mehedi Noor Khan</h1>
-<h3 align="center">Frontend Developer skilled in React.js,Node.js,Express.js and MongoDB. Passionate about building modern, scalable web apps and solving real-world problems through clean, efficient code.</h3>
+<h3 align="center">Frontend Developer | React Enthusiast | AI Explorer. Skilled in React.js, Node.js, Express.js, and MongoDB. Passionate about building modern, scalable web apps and solving real-world problems with clean, efficient code.</h3>
 
-- 🔭 I’m currently working on **Ticknology**
+<p align="center">
+  <img src="https://i.ibb.co.com/dJVgq5WW/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" width="100%" alt="Banner"/>
+</p>
 
-- 🌱 I’m currently learning **Next.js, AI featured Web Development**
+- 🔭 I’m currently working on **Ticknology**, an e-commerce platform dedicated to selling watches.  
+- 🌱 I’m currently learning **Next.js and AI-integrated Web Development**.  
+- 👨‍💻 All of my projects are available at [mehedinoorkhan.netlify.app](https://mehedinoorkhan.netlify.app)  
+- 💬 Ask me about **Web Development, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Firebase, REST APIs, Full Stack Projects, MVC Architecture, Team Collaboration, and Debugging tips! ⚡**  
+- 📫 How to reach me: **mehedinoorkhan16@gmail.com**  
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1HLkFtSUh6LWZ1in4BuLwQSMJO1g8WPO4/view?usp=sharing)  
+- ⚡ Fun fact: **I can spend hours debugging a single line of code — and feel like a superhero when it finally works! 💪💻**
 
-- 👨‍💻 All of my projects are available at [mehedinoorkhan.netlify.app](mehedinoorkhan.netlify.app)
-
-- 💬 Ask me about **Web Development, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Firebase, REST APIs, Full Stack Projects, MVC Architecture, Team Collaboration, and Debugging tips! ⚡**
-
-- 📫 How to reach me **mehedinoorkhan16@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HLkFtSUh6LWZ1in4BuLwQSMJO1g8WPO4/view?usp=sharing](https://drive.google.com/file/d/1HLkFtSUh6LWZ1in4BuLwQSMJO1g8WPO4/view?usp=sharing)
-
-- ⚡ Fun fact **I can spend hours debugging a single line of code — and feel like a superhero when it finally works! 💪💻**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehedi noor khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi noor khan" height="30" width="40" /></a>
-<a href="https://fb.com/mehedi noor khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi noor khan" height="30" width="40" /></a>
-<a href="https://instagram.com/mehedinoor5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedinoor5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mehedi noor khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehedi noor khan" height="30" width="40" /></a>
-<a href="https://discord.gg/mCwUhTwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mCwUhTwt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehedinoorkhan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://fb.com/mehedinoorkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/mehedinoor5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mehedinoorkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://discord.gg/mCwUhTwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedinoorkhan&show_icons=true&locale=en&layout=compact" alt="mehedinoorkhan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedinoorkhan&show_icons=true&locale=en" alt="mehedinoorkhan" /></p>
+## 🏆 Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedinoorkhan&" alt="mehedinoorkhan" /></p>
+### 💡 Roommate Finder
+- **Description:** A MERN stack app to post roommate listings, show interest in posts, and view your activities.  
+- **Tech Stack:** React.js, Express.js, MongoDB, Firebase, TailwindCSS  
+- **Live:** [Roommate Finder](https://assignment-10-faf93.web.app/)  
+- **GitHub:** [Repo](https://github.com/MehediNoorKhan/Find_Your_Roommate)  
+
+### 🍽️ Food Zone
+- **Description:** Share surplus food with those in need. Donate, request, and manage listings easily.  
+- **Tech Stack:** React.js, Express.js, MongoDB, Firebase, TailwindCSS, Framer-Motion, Stripe  
+- **Live:** [Food Zone](https://assignment11-b015f.web.app/)  
+- **GitHub:** [Repo](https://github.com/MehediNoorKhan/FoodZone)  
+
+### 🗣️ Convonest
+- **Description:** Discussion platform with posts, comments, voting, and trending topics.  
+- **Tech Stack:** React.js, Express.js, MongoDB, Firebase, TailwindCSS, Stripe  
+- **Live:** [Convonest](https://convonest3.web.app/)  
+- **GitHub:** [Repo](https://github.com/MehediNoorKhan/Convonest)  
+
+### ⌚ Ticknology *(Current Project)*
+- **Description:** E-commerce platform for watches with authentication, favorites, and responsive UI.  
+- **Tech Stack:** React.js, Next.js, TailwindCSS, Node.js, Express.js, MongoDB, Prisma, Firebase  
+- **Live:** [Ticknology](https://ticknology.netlify.app)  
+
+**Backend/API (Short):** RESTful endpoints for authentication, products, and favorites. Models include `User` and `Product`.  
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedinoorkhan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=mehedinoorkhan&show_icons=true&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedinoorkhan&" alt="GitHub Streak" />
+</p>
