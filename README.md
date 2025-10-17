@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/dJVgq5WW/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" width="100%" alt="Banner"/>
+  <img src="https://i.ibb.co.com/WvQpyrhr/forCv.jpg" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="left">Mehedi Noor Khan</h1>
