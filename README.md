@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/39GbbKX2/upscalemedia-transformed-1.png" width="100%" height="30%" object="cover" alt="Banner"/>
+  <img src="https://i.ibb.co.com/39GbbKX2/upscalemedia-transformed-1.png" width="100%" height="200px" alt="Banner"/>
 </p>
 
 <h1 align="left">Mehedi Noor Khan</h1>
@@ -48,47 +48,12 @@ Frontend Developer skilled in **React.js** and modern web technologies. Passiona
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
+<br> <!-- Added extra gap -->
+
 <h3 align="left">Programming Tools</h3>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" width="40" height="40"/>
-</p>
-
----
-
-## 🏆 Projects
-
-### 💡 Roommate Finder
-- **Description:** A MERN stack app to post roommate listings, show interest in posts, and view your activities.  
-- **Tech Stack:** React.js, Express.js, MongoDB, Firebase, TailwindCSS  
-- **Live:** [Roommate Finder](https://assignment-10-faf93.web.app/)  
-- **GitHub:** [Repo](https://github.com/MehediNoorKhan/Find_Your_Roommate)  
-
-### 🍽️ Food Zone
-- **Description:** Share surplus food with those in need. Donate, request, and manage listings easily.  
-- **Tech Stack:** React.js, Express.js, MongoDB, Firebase, TailwindCSS, Framer-Motion, Stripe  
-- **Live:** [Food Zone](https://assignment11-b015f.web.app/)  
-- **GitHub:** [Repo](https://github.com/MehediNoorKhan/FoodZone)  
-
-### 🗣️ Convonest
-- **Description:** Discussion platform with posts, comments, voting, and trending topics.  
-- **Tech Stack:** React.js, Express.js, MongoDB, Firebase, TailwindCSS, Stripe  
-- **Live:** [Convonest](https://convonest3.web.app/)  
-- **GitHub:** [Repo](https://github.com/MehediNoorKhan/Convonest)  
-
-### ⌚ Ticknology *(Current Project)*
-- **Description:** E-commerce platform for watches with authentication, favorites, and responsive UI.  
-- **Tech Stack:** React.js, Next.js, TailwindCSS, Node.js, Express.js, MongoDB, Prisma, Firebase  
-- **Live:** [Ticknology](https://ticknology.netlify.app)  
-
-**Backend/API (Short):** RESTful endpoints for authentication, products, and favorites. Models include `User` and `Product`.  
-
----
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedinoorkhan&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mehedinoorkhan&show_icons=true&locale=en" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedinoorkhan&" alt="GitHub Streak" width="48%"/>
 </p>
