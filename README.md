@@ -1,5 +1,5 @@
 
-  <img src="https://i.ibb.co.com/WvQpyrhr/forCv.jpg" width="100%" alt="Banner"/>
+  <img src="https://i.postimg.cc/hGFtNzmr/cvprof.jpg" width="100%" alt="Banner"/>
 
 
 <h1 align="left">Mehedi Noor Khan</h1>
