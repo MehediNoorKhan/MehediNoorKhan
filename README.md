@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.postimg.cc/hGFtNzmr/cvprof.jpg" width="100%" height="340px" alt="Banner"/>
-</div>
+</div> -->
 
 
 <h1 align="left">Mehedi Noor Khan</h1>
